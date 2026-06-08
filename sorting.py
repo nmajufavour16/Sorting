@@ -23,5 +23,5 @@ elif user_gender == "M" and user_age >= 45:
     Security.append(user_name)
     print(f"{user_name}, you're qualified to join the Security Department.")
 else:
-    print(f"Sorry, {user_name}, you're not eligible. ")
+    print(f"Sorry, {user_name}, you're not eligible.")
     
